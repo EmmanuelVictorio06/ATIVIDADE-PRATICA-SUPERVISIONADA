@@ -81,7 +81,3 @@ MergeFilasEncadeadas.java // Algoritmo de merge de duas filas encadeadas.
 - Projeto desenvolvido por Emmanuel Victorio, Misael Vicente e Otávio Augusto,
 - Disciplina Resolução de Problemas Estruturados em Computação, Engenharia de Software – PUCPR.
 
-# 📌 Links Importantes
-- Repositório GitHub: https://github.com/usuario/repositorio
-- (Opcional) Vídeo explicativo: https://www.youtube.com/seuvideo
-  
