@@ -73,12 +73,15 @@ MergeFilasEncadeadas.java // Algoritmo de merge de duas filas encadeadas.
 4. Acompanhe a simulação das estruturas no console.
 
 # 📌 Observações Importantes
-O projeto não utiliza recursos avançados ou bibliotecas externas.
+- O projeto não utiliza recursos avançados ou bibliotecas externas.
+- Toda a lógica é feita com manipulação direta de ponteiros (nós).
+- O merge de vetores e filas mostra o domínio do conceito de intercalação ordenada.
 
-Toda a lógica é feita com manipulação direta de ponteiros (nós).
+# 👨‍💼 Créditos
+- Projeto desenvolvido por Emmanuel Victorio, Misael Vicente e Otávio Augusto,
+- Disciplina Resolução de Problemas Estruturados em Computação, Engenharia de Software – PUCPR.
 
-O merge de vetores e filas mostra o domínio do conceito de intercalação ordenada.
-
-👨‍💼 Créditos
-Projeto desenvolvido por Emmanuel Victorio, Misael Vicente e Otávio Augusto,
-Disciplina Estrutura de Dados, Engenharia de Software – PUCPR.
+# 📌 Links Importantes
+- Repositório GitHub: https://github.com/usuario/repositorio
+- (Opcional) Vídeo explicativo: https://www.youtube.com/seuvideo
+  
