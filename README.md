@@ -65,7 +65,7 @@ MergeFilasEncadeadas.java // Algoritmo de merge de duas filas encadeadas.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   [git clone https://github.com/EmmanuelVictorio06/ATIVIDADE-PRATICA-SUPERVISIONADA.git
 2. Abra os arquivos .java na sua IDE.
 
 3. Compile e execute individualmente os arquivos com main (como MergeVetores.java ou MergeFilasEncadeadas.java).
