@@ -35,3 +35,50 @@ O foco deste trabalho é praticar a manipulação de estruturas de dados básica
 # 🧱 Estrutura do Projeto
 
 
+Fila.java // Implementação de fila simples.
+FilaEncadeada.java // Implementação de fila com lista encadeada.
+Pilha.java // Implementação de pilha simples.
+PilhaEncadeada.java // Implementação de pilha com lista encadeada.
+MergeVetores.java // Algoritmo de intercalação de dois vetores.
+MergeFilasEncadeadas.java // Algoritmo de merge de duas filas encadeadas.
+
+---
+
+# 🔗 Sistema de Fluxo de Dados
+
+- **Pilha/PilhaEncadeada**: utilizam o topo como ponto de controle para operações push e pop.
+- **Fila/FilaEncadeada**: utilizam frente e fim para controlar inserções e remoções.
+- **MergeVetores**: percorre dois vetores ordenados e os combina ordenadamente.
+- **MergeFilasEncadeadas**: compara elementos de duas filas encadeadas e cria uma nova com os elementos ordenados.
+
+---
+
+# 🚀 Tecnologias Utilizadas
+
+- Java
+- IDE recomendada: Visual Studio Code ou Eclipse
+- Execução via terminal/console
+
+---
+
+# 🛠️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/repositorio.git
+2. Abra os arquivos .java na sua IDE.
+
+3. Compile e execute individualmente os arquivos com main (como MergeVetores.java ou MergeFilasEncadeadas.java).
+
+4. Acompanhe a simulação das estruturas no console.
+
+# 📌 Observações Importantes
+O projeto não utiliza recursos avançados ou bibliotecas externas.
+
+Toda a lógica é feita com manipulação direta de ponteiros (nós).
+
+O merge de vetores e filas mostra o domínio do conceito de intercalação ordenada.
+
+👨‍💼 Créditos
+Projeto desenvolvido por Emmanuel Victorio, Misael Vicente e Otávio Augusto,
+Disciplina Estrutura de Dados, Engenharia de Software – PUCPR.
